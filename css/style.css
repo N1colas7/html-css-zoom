@@ -57,7 +57,7 @@ main{
     padding-top: 1%;
 }
 .col_main{
-    margin-left: 3%;
+    margin-left: 5%;
 }
 img{
     width: 120px;
@@ -77,11 +77,14 @@ footer{
     display: flex;
     justify-content: space-evenly
 }
+.color_green{
+    color: rgb(75, 200, 0);
+}
 .end_conv{
     background-color: rgb(74, 74, 74);
     color: red;
     padding-top: 1%;
 }
 .div_icon{
-    padding-top: 7%;
+    padding: 4%;
 }
