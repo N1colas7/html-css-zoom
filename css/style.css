@@ -62,6 +62,15 @@ main{
 img{
     width: 120px;
 }
+.user{
+    background-color: #8d8787;
+    color: white;
+    width: 82%;
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+    bottom: 17%;
+}
 /* footer */
 footer{
     height: 70px;
